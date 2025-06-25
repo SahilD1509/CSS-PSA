@@ -5,7 +5,7 @@ Types of selectors in CSS (Group of styles/Resuability)
 4. ID selectors
 5. Group of class,ID,tag selectors
 6. Attribute selectors
-7. Universal selectors
+7. Universal selectors (*)
 
 Class selectors always used like .classselector
 # means id
