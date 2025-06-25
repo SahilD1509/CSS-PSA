@@ -4,3 +4,9 @@ a{
 a[target]{
     background-color: yellow;
 }
+
+*{
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}

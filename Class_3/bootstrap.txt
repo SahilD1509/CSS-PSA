@@ -1,0 +1,2 @@
+Q. how to use bootstrap?
+   use CDN links
